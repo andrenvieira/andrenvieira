@@ -2,7 +2,7 @@
 <img src="https://github.com/andrenvieira/andrenvieira/blob/main/foto%20github.png"
             alt="css3" width="1400" height="250" /> </a>
 
-<b>Eu sou André Nascimento Vieira, atualmente sou desenvolvedor front-end, já trabalhei com diversas ferramentas e atualmente estou me especializando em Ciência de dados, para uma futura migração de carreira. Eu tenho como paixão, estudar novas tecnologias e desenvolver soluções.</b> 
+<b>Eu sou André Nascimento Vieira, atualmente sou analista de suporte, gosto de trabalhar como desenvolvedor front-end, fiz uso de diversas ferramentas para desenvolvimento Web  e atualmente estou me especializando em Ciência de dados, para uma futura migração de carreira. Eu tenho como paixão, estudar novas tecnologias e desenvolver soluções.</b> 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/andrenascimentovieira//"><img height="30" src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938044.png?token=exp=1639423785~hmac=4dc3ab325877562ed7f01c32b3a33ec8"></a>
